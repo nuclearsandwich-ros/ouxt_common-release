@@ -1,1 +1,1 @@
-{"base": "33d5747", "parent": "debian/rolling/ouxt_lint_common", "previous": "1fde30f", "trim": "", "trimbase": ""}
+{"base": "9858d9a", "parent": "debian/humble/ouxt_lint_common", "previous": "b931a3d", "trim": "", "trimbase": ""}
